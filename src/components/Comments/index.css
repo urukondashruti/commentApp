@@ -1,0 +1,63 @@
+/* Write your CSS here */
+.con {
+  display: flex;
+  flex-direction: column;
+}
+
+.div {
+  margin-left: 200px;
+  margin-right: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 75%;
+}
+
+.button {
+  width: 150px;
+  height: 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: #0284c7;
+  color: white;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.text {
+  height: 150px;
+  width: 250px;
+  margin-top: 20px;
+}
+.input {
+  height: 40px;
+  width: 250px;
+}
+.ho {
+  width: 1300px;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 200px;
+}
+.con4 {
+  background-color: #0284c7;
+  border-radius: 10px;
+  height: 30px;
+  width: 30px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+}
+.para {
+  margin-top: 3px;
+}
+
+.para1 {
+  margin-top: 5px;
+  margin-left: 20px;
+}
